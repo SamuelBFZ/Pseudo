@@ -1,0 +1,2 @@
+# Pseudo
+Simple pseudocode practices
