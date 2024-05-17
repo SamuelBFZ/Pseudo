@@ -1,2 +1,2 @@
 # Pseudo
-Simple pseudocode practices
+Pseudocode simple practices
