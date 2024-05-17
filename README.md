@@ -1,7 +1,7 @@
 # PSeInt practices
 
-This repository contains basic pseudocode excersices and projects by using [PSeInt](http://pseint.sourceforge.net/).
-All Pseudocodes are written and created in Spanish language.
+- This repository contains basic pseudocode excersices and projects by using [PSeInt](http://pseint.sourceforge.net/).
+- All Pseudocodes are written and created in Spanish language.
 
 ## Repository structure
 
