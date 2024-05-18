@@ -1,4 +1,5 @@
 Algoritmo Cronometro
+	//Codigo para realizar un cronometro funcional en Pseudocodigo
 	Definir h,m,s Como Entero
 	Escribir 'ingresa las horas'
 	Leer h
